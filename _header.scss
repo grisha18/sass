@@ -1,0 +1,10 @@
+
+
+
+header{
+    height: 150px;
+    width: 100%;
+    background-color: $headerColor;
+
+    @include flexCenter(column);
+}
